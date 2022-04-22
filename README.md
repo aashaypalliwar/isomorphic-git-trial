@@ -1,1 +1,1 @@
-# isomorphic-git-trial
+# Trial for isomorphic-git
